@@ -15,9 +15,21 @@
     <li>If-Else</li>
     <li>if-else-elif</li>
     <li>For loop</li>
+    <li>While loop</li>
+    <li>Swapping numbers</li>
 </ul>
 <h3>List in Python</h3>
+<ul>
+    <li>List and its functions</li>
+    <li>Slicing operator</li>
+    
+</ul>
 <h3>Tuple in Python</h3>
+<ul>
+    <li>Tuple</li>
+    <li>Reversed Tuple</li>
+    
+</ul>
 <h3>Set in Python</h3>
 <h3>Dictionary in Python</h3>
 <h3>Function in Python</h3>
