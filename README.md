@@ -8,8 +8,14 @@
     <li>Input function</li>
     <li>Adding two numbers</li>
     <li>Area of Circle</li>
+    <li>Conversion of number</li>
 </ul>
 <h3>Control Flow</h3>
+<ul>
+    <li>If-Else</li>
+    <li>if-else-elif</li>
+    <li>For loop</li>
+</ul>
 <h3>List in Python</h3>
 <h3>Tuple in Python</h3>
 <h3>Set in Python</h3>
