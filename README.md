@@ -37,7 +37,11 @@
     
 </ul>
 <h3>Dictionary in Python</h3>
-
+<ul>
+    <li>Dictionary1: functions</li>
+    <li>Dictionary2: program on dict</li>
+    
+</ul>
 <h3>Function in Python</h3>
 <h3>Return keyword </h3>
 <h3>Basic Programs </h3>
