@@ -43,6 +43,13 @@
     
 </ul>
 <h3>Function in Python</h3>
+<ul>
+    <li>Function1: how to write a function</li>
+    <li>Function2: types of arguments (args,kwargs)</li>
+    <li>Nested Function</li>
+    <li>PassByReference/Value</li>
+    
+</ul>
 <h3>Return keyword </h3>
 <h3>Basic Programs </h3>
 <h3>Eval in python </h3>
