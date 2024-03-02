@@ -56,5 +56,3 @@
     <li>String2: methods of strings</li>
     <li>String3: basic problems</li>
 </ul>
-
-<h3>OOPs in python</h3>
