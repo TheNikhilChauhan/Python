@@ -50,8 +50,11 @@
     <li>Recursion with factorial</li>
     <li>Programs</li>
 </ul>
-<h3>Strings Programs </h3>
-<h3>Eval in python </h3>
-<h3>Exception Handling in Python </h3>
-<h3>File Handling in Python </h3>
-<h3>Lambda Keyword in Python  </h3>
+<h3>Strings</h3>
+<ul>
+    <li>String1</li>
+    <li>String2: methods of strings</li>
+    <li>String3: basic problems</li>
+</ul>
+
+<h3>OOPs in python</h3>
